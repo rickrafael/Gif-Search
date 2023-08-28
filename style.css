@@ -1,0 +1,39 @@
+body{
+  font-size: 35px;
+  background-color: rgb(45, 45, 45);
+
+}
+
+main.content{
+  text-align: center;
+}
+
+label{
+  font-family: 'Black Ops One', cursive;
+  color: rgb(65, 182, 65);
+  
+}
+
+input{
+  padding: 6px;
+  border: 3px solid  rgb(65, 182, 65);
+  background-color: rgba(198, 79, 198, 0.644);
+}
+
+button{
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  padding: 7px;
+  background-color: rgb(50, 100, 50);
+  border-radius: 3px;
+}
+
+button:hover{
+  background-color: rgb(114, 198, 114);
+  color: black;
+}
+
+img{
+  width: 70%;
+  height: 70%;
+}
