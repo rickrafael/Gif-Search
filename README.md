@@ -16,6 +16,6 @@ Um input para buscar Gif´s animados e se divertir ! Desenvolvido utilizando a S
 ## 🛠 Habilidades
 HTML5, CSS3, Java Script.
 
-⚡ Acesse meu projeto  <>Clicando Aqui !</a>
+⚡ Acesse meu projeto Gif Search <https://rickrafael.github.io/Gif-Search/>Clicando Aqui !</a>
 ⚡
 
